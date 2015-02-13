@@ -1,0 +1,29 @@
++<!doctype html> 
+ <body>
+ 	<header><h1> Lost World's Fairs </h1></header> 
+    <article>
+    	<section>
+    	<p>Internet Explorer 9 now supports</p>
+        <a href="/eldorado"><img class="poster" src="img/eldorado.png" alt="El Dorado"/>
+                <h2><span class="visit">Visit</span><span class="city">El Dorado<span class="year">in 1924</span></span></h2>
+        <a href="/moon"><img class="poster" src="img/moon.png" alt="The Moon"/>
+				<h2><span class="visit">Visit</span> <span class="city">The Moon<span class="year">in 2040</span></span></h2>
+        <a href="/moon"><img class="poster" src="img/moon.png" alt="The Moon"/>
+				<h2><span class="visit">Visit</span> <span class="city">The Moon<span class="year">in 2040</span></span></h2>
+		</section>		
+    </article>
+    	<footer>
+    		<h3>Jason Santa Maria</h3>
+    		<p></p>
+    		<h3>Frank Chimero</h3>
+    		<p></p>
+    		<h3>Naz Hamid</h3>
+    		<p></p>
+    		<h3>Trent Walton</h3>
+    		<p></p>
+    		<h3>Dave Rupert</h3>
+    		<p></p>
+    	</footer>
+
+  </body>
+  </html>
